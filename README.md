@@ -1,7 +1,7 @@
 <img src="https://github.com/ChristosBaboulis/ChristosBaboulis/blob/0da9c593c6567c54fba9e6307011b1b41d189bac/banner1.png">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chris!;" />
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
