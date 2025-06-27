@@ -1,15 +1,32 @@
 <img src="https://github.com/ChristosBaboulis/ChristosBaboulis/blob/0da9c593c6567c54fba9e6307011b1b41d189bac/banner1.png">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chris!;" />
-</h1>
-
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
-- - Mainly focused on backend development, with solid understanding of frontend fundamentals.
-- - Ask me about Java, C#, JavaScript, React
+I have a demonstrated history of working in the information technology and services industry.  
+Mainly I focus on backend development, with solid understanding of frontend fundamentals.  
+Skilled in software engineering, databases, web services, and cloud-native application development, following modern microservices architectures.  
+Graduate of Athens University of Economics and Business, Department of Informatics.  
+Currently pursuing a Master’s degree in Information Systems Development and Security at the same university.  
+
+Current professional tech stack includes .NET Core and React.  
+Previous professional experience on Salesforce Cloud Platform development, holding 7 certifications: [Salesforce Certifications](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=5yEcSYeO6yquYglt1ttmr3pNZg0+NNLlxMVhRw7LV3Ypbwnzx/nhDoJOwYBs7mzn)
+
+
+## 🛠️ Languages and Tools
 
 <br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,cs,dotnet,react,redux,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,azure,git,postman,idea,eclipse,visualstudio,vscode" />
+</p>
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/ChristosBaboulis/count.svg" alt="Visitor's Count" />
+</div>
+
+<hr>
 
 <div align="center">
   <a href="chrisb2603@gmail.com">
@@ -25,21 +42,5 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<hr>
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/ChristosBaboulis/count.svg" alt="Visitor's Count" />
-</div>
-
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,cs,dotnet,react,redux,js,html,css" />
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,azure,git,postman,idea,eclipse,visualstudio,vscode" />
-</p>
 
 <hr>
