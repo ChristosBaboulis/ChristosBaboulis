@@ -21,10 +21,12 @@ Previous professional experience on Salesforce Cloud Platform development, holdi
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,azure,git,postman,idea,eclipse,visualstudio,vscode" />
 </p>
 
+<!--
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/ChristosBaboulis/count.svg" alt="Visitor's Count" />
 </div>
+ -->
 
 <hr>
 
