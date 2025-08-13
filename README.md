@@ -9,7 +9,7 @@ Deep knowledge of RESTful web services, database management, DevOps, quality ass
 Graduate of Athens University of Economics and Business, Department of Informatics.  
 Currently pursuing a Master’s degree in Information Systems Development and Security at the same university.
 
-Professional tech stack includes .NET Core and React.js  
+Professional tech stack includes .NET Core and React  
 Possessing also professional experience on Salesforce Cloud Platform development, holding 7 certifications: [Salesforce Certifications](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=5yEcSYeO6yquYglt1ttmr3pNZg0+NNLlxMVhRw7LV3Ypbwnzx/nhDoJOwYBs7mzn)  
 
 Frameworks I enjoy working with:
