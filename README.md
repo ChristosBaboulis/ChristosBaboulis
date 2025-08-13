@@ -3,14 +3,18 @@
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
 I have a demonstrated history of working in the information technology and services industry.  
-Mainly I focus on backend development, with solid understanding of frontend fundamentals.  
-Skilled in software engineering, databases, web services, and cloud-native application development, following modern microservices architectures.  
+Proficient in cloud-native application development, applying modern architectures, while leveraging effective design patterns to maximize maintainability, scalability, and code quality.  
+Deep knowledge of RESTful web services, database management, DevOps, quality assurance, agile methodologies.
+
 Graduate of Athens University of Economics and Business, Department of Informatics.  
-Currently pursuing a Master’s degree in Information Systems Development and Security at the same university.  
+Currently pursuing a Master’s degree in Information Systems Development and Security at the same university.
 
-Current professional tech stack includes .NET Core and React.  
-Previous professional experience on Salesforce Cloud Platform development, holding 7 certifications: [Salesforce Certifications](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=5yEcSYeO6yquYglt1ttmr3pNZg0+NNLlxMVhRw7LV3Ypbwnzx/nhDoJOwYBs7mzn)
+Professional tech stack includes .NET Core and React.js  
+Possessing also professional experience on Salesforce Cloud Platform development, holding 7 certifications: [Salesforce Certifications](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=5yEcSYeO6yquYglt1ttmr3pNZg0+NNLlxMVhRw7LV3Ypbwnzx/nhDoJOwYBs7mzn)  
 
+Frameworks I enjoy working with:
+- Backend: Spring Boot, .NET Core, Quarkus
+- Frontend: React
 
 ## 🛠️ Languages and Tools
 
